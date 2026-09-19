@@ -1,0 +1,11 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "CampusEats Task Tracker - SE3090 Lab 08",
+  "main": "src/tasks.js",
+  "scripts": {
+    "test": "node src/tasks.js"
+  },
+  "keywords": ["campuseats", "se3090", "lab08"],
+  "license": "MIT"
+}
