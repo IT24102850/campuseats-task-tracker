@@ -1,5 +1,7 @@
 # CampusEats Task Tracker
 
+[![CI](https://github.com/IT24102850/campuseats-task-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/IT24102850/campuseats-task-tracker/actions/workflows/ci.yml)
+
 A small task-tracking repository for the **CampusEats** project, created for
 SE3090 - Software Engineering Frameworks, Lab Practical 08
 (Git, Collaborative Development, CI/CD, Security & Code Quality).
